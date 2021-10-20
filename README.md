@@ -51,9 +51,9 @@ Album | Artist | X views
 
 ## License & copyright 
 
-@ Idris Idris
+@ Idris Idris, socail software 
 
-Licensed under the [MIT License](LICENSE)
+Licensed under the [MIT License](LICENSE).
 
 
 
