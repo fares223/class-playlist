@@ -49,4 +49,11 @@ When adding the view count, add it after the artist. Get the view count from you
 Title  
 Album | Artist | X views
 
+## license & copyright 
+
+@ Idris Idris
+
+Licensed under the [MIt License](LICENSE)
+
+
 
