@@ -53,7 +53,7 @@ Album | Artist | X views
 
 @ Idris Idris
 
-Licensed under the [MIt License](LICENSE)
+Licensed under the [MIT License](LICENSE)
 
 
 
